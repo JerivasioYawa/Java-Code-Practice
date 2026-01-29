@@ -1,0 +1,19 @@
+### .gitignore (Java)
+
+```gitignore
+# Compiled class files
+*.class
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+nbproject/private/
+
+# Build folders
+/bin/
+/build/
+/dist/
+
+# OS files
+.DS_Store
