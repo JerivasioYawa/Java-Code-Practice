@@ -19,4 +19,5 @@ This repository contains a collection of beginner-friendly Java programs created
 
 2.Open the project in your IDE (NetBeans, IntelliJ, Eclipse etc).
 3. Navigate to JavaCodePractice package. 
+
 4. Run specific code being practiced.
