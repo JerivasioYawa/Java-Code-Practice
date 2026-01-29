@@ -9,6 +9,10 @@ Program | Decription
 - SmallestNumber | finding the smallest of three numbers
 - AvergaeCalculator | Calculating averages of three numbers
 - MiddleCharacter | String manipulation (finding the middle character of a string)
+- LeapYearChecker |	Checks whether a given year is a leap year
+- CountVowels |	Counts the number of vowels in a given string
+- CountWords	 | Counts the number of words in a sentence
+- PasswordValidation	| Validates a password using methods
 
 ## Project structure 
 src/main/java/javacodepractice/
